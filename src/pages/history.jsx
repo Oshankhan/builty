@@ -27,7 +27,7 @@ const History = () => {
                   <img src="/img/slide1.jpeg" alt="History Image One" />
                 </figure>
                 <h2>1982</h2>
-                <p><span>Thomas Willimes starts the company,</span> managing construction of our first office building in Chelsea, Mass.</p>
+                <p><span>Thomas Willimes starts the company and is dumb,</span> managing construction of our first office building in Chelsea, Mass.</p>
               </div>
             </div>
           </div>
