@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "icon": {
+                "light": "/images/icon-1.svg",
+                "dark": "/images/1-icon.png",
+                "alt": "icon"
+            },
+            "title": "Real Estate",
+            "text": "Specializing in strategic real estate solutions we facilitate management of properties driving success in investments and development for a diverse clientele",
+            "link": "/services/service-1"
+        },
+        {
+            "icon": {
+                "light": "/images/icon-2.svg",
+                "dark": "/images/2-icon.png",
+                "alt": "icon"
+            },
+            "title": "Images",
+            "text": "Explore our gallery to witness the precision and craftsmanship of our completed projects, showcasing our commitment to excellence in every detail.",
+            "link": "/team"
+        },
+        {
+            "icon": {
+                "light": "/images/icon-3.svg",
+                "dark": "/images/3-icon.png",
+                "alt": "icon"
+            },
+            "title": "Contact us",
+            "text": "For more information each us out at Phone no 0-02193-193 email: something@gmail.com ",
+             "link": "/contact"
+        }
+    ]
+}

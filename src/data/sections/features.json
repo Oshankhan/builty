@@ -1,0 +1,31 @@
+{
+    "subtitle": "Core Features",
+    "title": "What Makes Us Differnt",
+    "yt_video_id": "uemObN8_dcw",
+    "image": {
+        "url": "/img/core-feature.jpeg",
+        "alt": "image"
+    },
+    "items": [
+        {
+            "num": "01.",
+            "title": "Early Engagement",
+            "text": " Our proactive approach to early management ensures that every project is meticulously planned and executed from the start, guaranteeing efficiency and timely delivery."
+        },
+        {
+            "num": "02.",
+            "title": "Integrity",
+            "text": "At ADCPL, integrity is at the core of everything we do, fostering trust and transparency with our clients and partners throughout every phase of construction."
+        },
+        {
+            "num": "03.",
+            "title": "Solutions",
+            "text": "We specialize in crafting tailored solutions that address specific challenges, ensuring that every project not only meets but exceeds expectations with its functionality and design."
+        },
+        {
+            "num": "04.",
+            "title": "Innovation",
+            "text": " Driven by innovation, we continuously integrate the latest technologies and sustainable practices into our projects, setting new standards in the construction industry and ensuring future readiness."
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "settings": {
+        "siteName": "AnilDasConstructionsPvt.Ltd",
+        "preloader": {
+            "image": "/test_image/reallogo.png",
+            "alt": "logo"
+        },
+        "formspreeURL": "https://formspree.io/f/your_api_key",
+        "mailchimp": {
+            "url": "",
+            "key": ""
+        }
+    },
+    "header": {
+        "logo": {
+            "image": "/test_image/reallogo.png",
+            "alt": "logo"
+        },
+        "menu": [
+            {
+                "label": "Home",
+                "link": "/",
+                "children": [
+                   
+                   
+                ]
+            },
+            {
+                "label": "About",
+                "link": "/about",
+                "children": [
+                    {
+                        "label": "About Company",
+                        "link": "/about",
+                        "children": 0
+                    },
+                    {
+                        "label": "Core Values",
+                        "link": "/core-values",
+                        "children": 0
+                    },
+                    
+                    {
+                        "label": "Social Responsibilites",
+                        "link": "/history",
+                        "children": 0
+                    },
+                    {
+                        "label": "Leadership",
+                        "link": "/leadership",
+                        "children": 0
+                    }
+                ]
+            },
+            
+            {
+                "label": "Pages",
+                "link": "/projects",
+                "children": [
+                    {
+                        "label": "Projects",
+                        "link": "/projects",
+                        "children": [
+                            {
+                                "label": "Projects Information",
+                                "link": "/projects"
+                            },
+                            {
+                                "label": "Projects Videos",
+                                "link": "/projects-2"
+                            }
+                           
+                        ]
+                    },
+                    {
+                        "label": "Services",
+                        "link": "/services",
+                        "children": [
+                            {
+                                "label": "Real Estate",
+                                "link": "/services"
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Gallery",
+                        "link": "/team",
+                        "children": [
+                            {
+                                "label": "Gallery of Images",
+                                "link": "/team"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Resources & Relations",
+                "link": "/blog",
+                "children": [
+                    {
+                        "label": "Machineries",
+                        "link": "/blog",
+                        "children": 0
+                    },
+                    {
+                        "label": "Industries",
+                        "link": "/blog-2",
+                        "children": 0
+                    }
+                ]
+            },
+            {
+                "label": "Contact",
+                "link": "/contact",
+                "children": 0
+            }
+        ]
+    },
+    "footer": {
+        "logo": {
+            "image": "/test_image/reallogo.png",
+            "alt": "logo"
+        },
+        "info": {
+            "address": "901 N Pitt Str., Suite 170, VA 22314, USA",
+            "tel": "(+180) 50 318 47 07",
+            "email": "username@domain.com"
+        },
+        "copy": "Oshan Khan  © 2024 <a href='https://oshankhan.netlify.app/'>Portfolio</a> All rights reserved"
+    },
+    "social": [
+        {
+            "link": "https://facebook.com",
+            "title": "Facebook"
+        },
+        {
+            "link": "https://twitter.com",
+            "title": "Twitter"
+        },
+        {
+            "link": "https://linkedin.com",
+            "title": "Linkedin"
+        }
+    ]
+}

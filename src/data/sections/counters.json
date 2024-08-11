@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "value": "12",
+            "label": "Years",
+            "plus": true,
+            "title": "Professional Experience"
+        },
+        {
+            "value": "90",
+            "label": "People",
+            "plus": true,
+            "title": "Employees in team"
+        },
+        {
+            "value": "21",
+            "label": "Locations",
+            "plus": false,
+            "title": "Sites in development"
+        }
+    ]
+}

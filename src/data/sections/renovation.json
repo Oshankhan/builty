@@ -1,0 +1,11 @@
+{
+    "title": "Starts Here",
+    "subtitle": "Your Renovation",
+    "description": "Building a better future with integrity, innovation, and excellence..",
+    "link": "/contact",
+    "bg_image": "/img/renovation.jpeg",
+    "image_circle_text": {
+        "url": "/img/circle-text.png",
+        "alt": "Circle Text"
+    }
+}

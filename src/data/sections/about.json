@@ -1,0 +1,20 @@
+{
+    "image1": {
+        "url": "/img/about-one.jpeg",
+        "alt": "Image One"
+    },
+    "image2": {
+        "url": "/img/about-two.jpeg",
+        "alt": "Image One"
+    },
+    "title": "AnilDasConstructionsPvtLtd provides a full range of services",
+    "subtitle": "Welcome to Our Company",
+    "text": " Founded in 1988 by Anil Das, Anil Das Construction Private Limited has become a pillar of development in the Northeast, particularly in Kamrup (Rural). Renowned for enhancing rural infrastructure and driving urbanization, ADCPL stands out for its integrity and innovative projects. Committed to quality and excellence, we set benchmarks that inspire and lead in the construction industry. ",
+    "signature": {
+        "light": "/img/signature.png",
+        "dark": "/img/signature-1.png",
+        "alt": "Signature"
+    },
+    "name": "Anil Das",
+    "role": "Director of AnilDasConstructionsPvtLtd"
+}
