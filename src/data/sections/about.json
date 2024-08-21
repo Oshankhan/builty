@@ -1,6 +1,6 @@
 {
     "image1": {
-        "url": "/img/about-one.jpeg",
+        "url": "/img/director'sCoverImage.jpg",
         "alt": "Image One"
     },
     "image2": {
@@ -16,5 +16,24 @@
         "alt": "Signature"
     },
     "name": "Anil Das",
-    "role": "Director of AnilDasConstructionsPvtLtd"
+    "role": "Director of AnilDasConstructionsPvtLtd",
+    "SliderProps": [
+    {
+        "url": "/images/award1.jpg",
+        "alt": "Image One"
+    },
+    {
+        "url": "/images/award2.jpg",
+        "alt": "Image Two"
+    },
+    {
+        "url": "/images/award3.jpg",
+        "alt": "Image Three"
+    },
+    {
+        "url": "/images/award4.jpg",
+        "alt": "Image Four"
+    }
+]
+
 }

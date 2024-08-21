@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import { Button, Col, Container, Row } from "react-bootstrap";
 
 const IndustrySlider = ({ imageArray }) => {
   const [index, setIndex] = useState(0);
@@ -16,7 +16,16 @@ const IndustrySlider = ({ imageArray }) => {
 
   return (
     <div>
-      <div className="mainDiv" style={{height:"200px", width:"100%", overflow:"hidden", display:"flex"}}>
+      <div
+        className="mainDiv"
+        style={{
+          height: "200px",
+          width: "100%",
+          overflow: "hidden",
+          display: "flex",
+          borderRadius: "6px",
+        }}
+      >
         {imageArray.map((img, key) => {
           return (
             <img
@@ -34,9 +43,30 @@ const IndustrySlider = ({ imageArray }) => {
           );
         })}
       </div>
-      
-      <button onClick={handleLeft} style={{position:"relative" , left:"20px", bottom:"100px"}}>previous</button>
-      <button onClick={handleRight} style={{position:"relative" , left:"40vw", bottom:"100px"}}>next</button>
+      <div
+        className="justify-content-end"
+        style={{
+          position: "relative",
+          bottom: "110px",
+          margin: "10px",
+        }}
+      >
+        <div style={{ display: "flex", justifyContent: "space-between" }}>
+          <Button
+            onClick={handleLeft}
+            style={{ backgroundColor: "inherit", borderColor: "inherit" }}
+          >
+            <i class="fa-solid fa-chevron-left " aria-hidden="true"></i>
+          </Button>
+
+          <Button
+            onClick={handleRight}
+            style={{ backgroundColor: "inherit", borderColor: "inherit" }}
+          >
+            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+          </Button>
+        </div>
+      </div>
     </div>
   );
 };

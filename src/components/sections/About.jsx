@@ -1,7 +1,6 @@
 import Data from "../../data/sections/about.json";
 
 const AboutSection = () => {
-  console.log(Data);
     return (
       <section className="gap no-top about-style-one">
         <div className="container">
